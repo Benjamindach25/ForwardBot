@@ -69,7 +69,5 @@ class Bot(Client):
 
 
 
-if __name__ == "__main__":
-    app = Bot()
-    app.run()
-
+app = Bot()
+app.run()
