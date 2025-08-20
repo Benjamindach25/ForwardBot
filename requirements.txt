@@ -1,4 +1,5 @@
 https://codeload.github.com/KurimuzonAkuma/pyrogram/zip/refs/heads/dev
+#https://codeload.github.com/TelegramPlayground/pyrogram/zip/refs/heads/dev
 tgcrypto
 Flask
 gunicorn
