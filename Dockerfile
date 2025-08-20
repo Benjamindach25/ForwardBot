@@ -6,4 +6,4 @@ RUN pip install -r requirements.txt
 
 CMD gunicorn app:app & python3 bot.py
 
-EXPOSE 8000
+EXPOSE 8080
